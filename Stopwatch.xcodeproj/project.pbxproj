@@ -23,7 +23,7 @@
 		1826E387276830E10019B3A3 /* StopwatchUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1826E386276830E10019B3A3 /* StopwatchUITestsLaunchTests.swift */; };
 		1864DB00276BB268008AF6A8 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 1864DAFF276BB268008AF6A8 /* README.md */; };
 		1864DB02276BB36B008AF6A8 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 1864DB01276BB36B008AF6A8 /* LICENSE */; };
-		1864DB04276BB903008AF6A8 /* Screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 1864DB03276BB903008AF6A8 /* Screenshot.png */; };
+		1864DB08276BBCBF008AF6A8 /* Screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 1864DB07276BBCBF008AF6A8 /* Screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,7 +64,7 @@
 		1826E386276830E10019B3A3 /* StopwatchUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StopwatchUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		1864DAFF276BB268008AF6A8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		1864DB01276BB36B008AF6A8 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		1864DB03276BB903008AF6A8 /* Screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot.png; sourceTree = "<group>"; };
+		1864DB07276BBCBF008AF6A8 /* Screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,7 +129,7 @@
 		1826E357276830DF0019B3A3 = {
 			isa = PBXGroup;
 			children = (
-				1864DB03276BB903008AF6A8 /* Screenshot.png */,
+				1864DB07276BBCBF008AF6A8 /* Screenshot.png */,
 				1864DB01276BB36B008AF6A8 /* LICENSE */,
 				1864DAFF276BB268008AF6A8 /* README.md */,
 				1826E362276830DF0019B3A3 /* Stopwatch */,
@@ -292,7 +292,7 @@
 				1826E370276830E10019B3A3 /* LaunchScreen.storyboard in Resources */,
 				1864DB02276BB36B008AF6A8 /* LICENSE in Resources */,
 				1826E36D276830E10019B3A3 /* Assets.xcassets in Resources */,
-				1864DB04276BB903008AF6A8 /* Screenshot.png in Resources */,
+				1864DB08276BBCBF008AF6A8 /* Screenshot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
